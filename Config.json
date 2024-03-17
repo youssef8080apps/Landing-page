@@ -3,11 +3,11 @@
     "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "FAN",
+    "ad_banner" : "fan",
     "ad_inter" : "admob",
-    "ad_native" : "ironSource",
+    "ad_native" : "applovin_max",
     "openapp" : "admob",
-    "back_up" : "none",
+    "back_up" : "applovin_discovery",
     "ad_interval" : 5 ,
     
     "AdMob": {
